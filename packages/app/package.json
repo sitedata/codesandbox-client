@@ -96,7 +96,7 @@
     "base64-loader": "^1.0.0",
     "browser-detect": "^0.2.28",
     "browser-resolve": "CompuIves/node-browser-resolve",
-    "circular-json": "^0.4.0",
+    "circular-json": "^0.5.9",
     "codemirror": "^5.27.4",
     "codesandbox-api": "0.0.23",
     "codesandbox-import-utils": "2.1.2",
